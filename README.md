@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](https://github.com/ritchiecodes/ritchiecodes/blob/main/banner_img)
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=javascript,html,css,python)](https://linkedin.com/in/ritchiecodes)
 ### Tools
